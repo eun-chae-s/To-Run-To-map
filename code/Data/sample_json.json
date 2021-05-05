@@ -1,0 +1,170 @@
+[
+  {
+    "id": 494446,
+    "mrkId": 364285,
+    "mapId": 1809,
+    "name": "Chestnut Residence and Conference Centre",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.654308,
+    "lng": -79.385361,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 3
+  },
+  {
+    "id": 494447,
+    "mrkId": 364286,
+    "mapId": 1809,
+    "name": "Rehabilitation Sciences Building",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.65546,
+    "lng": -79.389168,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 7
+  },
+  {
+    "id": 494448,
+    "mrkId": 364287,
+    "mapId": 1809,
+    "name": "123 Edward Street",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.65564,
+    "lng": -79.386772,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 5
+  },
+  {
+    "id": 494449,
+    "mrkId": 364288,
+    "mapId": 1809,
+    "name": "Dentistry Building",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.656273,
+    "lng": -79.387146,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 4
+  },
+  {
+    "id": 494450,
+    "mrkId": 364289,
+    "mapId": 1809,
+    "name": "229 College Street",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.658165,
+    "lng": -79.397453,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 4
+  },
+  {
+    "id": 494451,
+    "mrkId": 364290,
+    "mapId": 1809,
+    "name": "Gage Building",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.658195,
+    "lng": -79.397095,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 5
+  },
+  {
+    "id": 494452,
+    "mrkId": 364291,
+    "mapId": 1809,
+    "name": "455 Spadina Avenue",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.658207,
+    "lng": -79.399704,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 8
+  },
+  {
+    "id": 494453,
+    "mrkId": 364292,
+    "mapId": 1809,
+    "name": "Exam Centre",
+    "catId": 48654,
+    "shape": "",
+    "level": [
+      0
+    ],
+    "schedule": "",
+    "lat": 43.658478,
+    "lng": -79.39286,
+    "altitude": 0,
+    "reference": "",
+    "icon": "",
+    "marker_feed": {
+      "rate": 0
+    },
+    "weight": 5
+  }
+]
